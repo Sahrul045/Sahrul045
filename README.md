@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Data Science and exploring Machine Learning to expand my    skillset.
 - 👯 I’m looking to collaborate on frontend and backend development projects,           especially with Tailwind, Bootstrap, and PHP MVC frameworks.
 - 🤔 I’m looking for help with advanced machine learning techniques and integrating   data science tools into web applications.
-- 💬 Ask me about rontend frameworks (Tailwind, Bootstrap), PHP, and Laravel
+- 💬 Ask me about frontend frameworks (Tailwind, Bootstrap), PHP, and Laravel
 - 📫 How to reach me: [shahrull0522@gmail.com]
 - 😄 Pronouns: He/Him
   
