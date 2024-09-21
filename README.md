@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://c4.wallpaperflare.com/wallpaper/435/542/549/javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview.jpg" style="width:100%; height:auto; margin: 0; padding: 0;" />
+  </a>
+</p>
 <h1 align="center">Hello there, I'm Sahrul😁</h1>
 
 
