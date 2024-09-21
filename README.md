@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://rishavchanda.io">
-    <img src="https://c4.wallpaperflare.com/wallpaper/967/867/776/abstract-brain-science-artwork-wallpaper-preview.jpg" alt="MasterHead" style="width:60%; height:auto; margin: 0; padding: 0;" />
-  </a>
-</p>
 <h1 align="center">Hello there, I'm Sahrul😁</h1>
 
 
